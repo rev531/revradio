@@ -1,2 +1,34 @@
 # revradio
 R E V is a radio archipelago
+<!DOCTYPE html>
+<html>
+  <head>
+   <title> R E V RADIO </title> 
+  </head>
+  <body>
+   <h1> R E V  </h1>
+   <h1> A R C H I P E L </h1>
+  
+   <a href="https://rev.hotglue.me/"> A PROPOS </a>
+   <p> En se touchant et s'échangeant, les mondes ont engendré des espaces où nous devons apprendre à vivre. 
+Ils naissaient d'emblée dans les roulis sonores des coquillages secrets, des conques à jamais éteintes, et des vieux crânes. 
+L'Océan par cette coulée d'abysses a fait naître une portée d'archipels encore inhabités, qui s'offraient en secret à nos imaginaires.
+ <i> L'intraitable beauté du monde, Edouard Glissant & Patrick Chamoiseau
+ </i></p>
+
+<audio controls autoplay>
+  <source src="https://www.ubu.com/media/sound/dockstader_tod/apocalypse/Dockstader-Tod_01-Traveling-Music.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> <p>Tod Dockstader (1932-2015) - Travelling Music (1960) 9:08 </p>
+
+<audio controls autoplay2>
+  <source src="https://www.ubu.com/media/sound/derrida_jacques/Circonfession_01/Derrida-Jacques_Circumfession_Disc-1_01_Track-1.mp3">
+  Your browser does not support the audio element.
+</audio> <p> Jacques Derrida (1930-2004) - Circonfession (2004)  </p>
+
+<audio controls autoplay3>
+  <source src="https://www.ubu.com/media/sound/zacher_gerd/dgg/Zacher-Gerd_04_Ligeti_Etude-Nr-1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> <p>György Ligeti (1923-2006) - Volumina (1961) </p>
+  </body>
+</html>
